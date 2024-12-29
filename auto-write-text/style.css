@@ -11,5 +11,7 @@ body {
   font-family: "Nunito", serif;
   margin: 0;
   min-height: 100vh;
-  background-color: #e0e9af;
+  font-size: 20px;
+  background-color: #03363d;
+  color: white;
 }
