@@ -15,7 +15,6 @@ This repository showcases 10 beginner-friendly yet impactful projects created us
 
 ## Introduction  
 The goal of these projects is to master essential web development concepts and techniques. Each project focuses on specific features or effects commonly used in real-world applications.  
-
 ---
 
 ## Projects Overview  
@@ -55,45 +54,69 @@ The goal of these projects is to master essential web development concepts and t
 
 ## Project Details  
 
+---
+
 ### 1. Hamburger Button & Hidden Menu  
-- A responsive button toggling a hidden menu.  
-- **Focus:** Event handling, CSS transitions.  
+- **Features:**  
+  - Button with a hamburger icon.  
+  - Hidden menu with `<li><a>` structure.  
+  - Toggle visibility on click.  
+  - Includes animation effects.  
 
 ### 2. Toast Notification  
-- Displays dynamic, timed notifications.  
-- **Focus:** Timers, DOM manipulation.  
+- **Features:**  
+  - Floating toast container.  
+  - Styled toast design.  
+  - Button to show random toast message on click.  
 
 ### 3. Auto Write Text  
-- Mimics a typing effect for text.  
-- **Focus:** String manipulation, timing functions.  
+- **Features:**  
+  - Text auto-writing effect.  
+  - Tracks text index.  
+  - Increments index to display text incrementally.  
 
 ### 4. Popup / Modal  
-- A dialog box with open/close functionality.  
-- **Focus:** Overlay effects, event listeners.  
+- **Features:**  
+  - Button to activate popup.  
+  - Popup container with text and close button.  
+  - Close button with click event to hide popup.  
 
 ### 5. Purple Heart Rain  
-- Falling purple hearts animation.  
-- **Focus:** Keyframes, animation properties.  
+- **Features:**  
+  - Heart shape created with CSS.  
+  - Falling animation applied to hearts.  
+  - Dynamically create hearts and add to body.  
+  - Interval to generate hearts periodically.  
 
 ### 6. Background Changer  
-- Allows users to change the background dynamically.  
-- **Focus:** DOM updates, user interaction.  
+- **Features:**  
+  - Button with click functionality.  
+  - Generate random background color.  
+  - Change background color on button click.  
 
 ### 7. Dark Mode Toggle  
-- Adds a light/dark mode toggle switch.  
-- **Focus:** Local storage, CSS variables.  
+- **Features:**  
+  - Toggle text and dark mode CSS.  
+  - Toggle switch event to change mode.  
 
 ### 8. Image Carousel  
-- A carousel to navigate through images.  
-- **Focus:** Array handling, DOM updates.  
+- **Features:**  
+  - Carousel with 3-4 images.  
+  - Carousel container and images container.  
+  - Images with fixed width and height.  
+  - Automatic index switch and container transform updates.  
 
 ### 9. Sound Board  
-- Plays audio clips on button clicks.  
-- **Focus:** Audio API, event handling.  
+- **Features:**  
+  - Array of sound names.  
+  - Create buttons with text for each sound.  
+  - Play corresponding sound on button click.  
 
 ### 10. Zoom Effect  
-- Adds a zoom-in effect to images on hover.  
-- **Focus:** CSS transitions, pseudo-classes.  
+- **Features:**  
+  - Image with hover effect.  
+  - Track mouse movement.  
+  - Set transform origin on hover for zoom effect.  
 
 ---
 
