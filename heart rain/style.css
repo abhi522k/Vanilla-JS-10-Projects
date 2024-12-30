@@ -13,3 +13,17 @@ body {
   min-height: 100vh;
   background-color: #e0e9af;
 }
+
+.heart {
+  position: fixed;
+  font-size: 15px;
+  top: -1vh;
+  transform: translateY(0);
+  animation: fall 3s linear forwards;
+}
+
+@keyframes fall {
+  to {
+    transform: translateY(105vh);
+  }
+}
