@@ -28,7 +28,7 @@ button {
 }
 
 button.active {
-  transform: translateX(-280px);
+  transform: translateX(-180px);
 }
 
 nav {
@@ -38,7 +38,7 @@ nav {
   top: 0;
   right: 0;
   height: 100vh;
-  width: 300px;
+  width: 200px;
   padding: 20px;
   transform: translateX(100%);
   transition: transform 0.3s ease-in-out;

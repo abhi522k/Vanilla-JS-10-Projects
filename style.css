@@ -5,10 +5,44 @@
 }
 
 body {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  text-align: center;
   font-family: "Nunito", serif;
   margin: 0;
   min-height: 100vh;
+  background-color: #f5efff;
+}
+
+h1 {
+  margin-bottom: 50px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  background-color: #a294f9;
+  height: 400px;
+  width: 350px;
+  margin: 30px;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 2px 2px 10px;
+}
+
+iframe {
+  border: none;
+  border-radius: 40px 40px 0px 0;
+}
+
+h2 {
+  font-family: inherit;
+  margin: 10px;
+}
+
+a {
+  color: black;
 }
