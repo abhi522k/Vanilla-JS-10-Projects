@@ -90,7 +90,7 @@ This repository showcases 10 beginner-friendly yet impactful projects created us
   - Popup container with text and close button.
   - Close button with click event to hide popup.
 
-### 5. Purple Heart Rain
+### 5. Heart Rain
 
 - **Features:**
   - Heart shape created with CSS.
