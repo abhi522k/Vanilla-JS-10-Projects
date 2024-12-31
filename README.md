@@ -4,6 +4,8 @@ This repository showcases 10 beginner-friendly yet impactful projects created us
 
 ---
 
+![alt text](image.png)
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
